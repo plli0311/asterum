@@ -11,3 +11,4 @@
 - [《History of Manufacturing》纺织工业发展](History-of-Manufacturing-%E7%BA%BA%E7%BB%87%E5%B7%A5%E4%B8%9A%E5%8F%91%E5%B1%95-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
 - [Spotify 音频分析径向可视化](Spotify%E9%9F%B3%E9%A2%91%E5%88%86%E6%9E%90%E5%BE%84%E5%90%91%E5%8F%AF%E8%A7%86%E5%8C%96-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
 - [Royal Station Hotel 历史沿革](Royal-Station-Hotel-%E5%8E%86%E5%8F%B2%E6%B2%BF%E9%9D%A9-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
+- [《Bauhaus》包豪斯发展史](Bauhaus-%E5%8C%85%E8%B1%AA%E6%96%AF%E5%8F%91%E5%B1%95%E5%8F%B2-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
