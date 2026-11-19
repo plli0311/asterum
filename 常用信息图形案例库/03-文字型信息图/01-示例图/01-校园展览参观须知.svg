@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="480" viewBox="0 0 820 480" role="img" aria-label="校园展览参观须知">
+<rect width="820" height="480" rx="24" fill="#f3f6f4"/>
+<path d="M48 103H772M48 413H772" stroke="#b6c9c5"/>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif">
+<text x="48" y="76" font-size="37" font-weight="700" fill="#12342f">校园展览参观须知</text>
+<text x="48" y="163" font-size="25" fill="#216b5b">入场</text>
+<text x="48" y="207" font-size="30" fill="#12342f">请从东门进入，沿指引到主展厅。</text>
+<text x="48" y="267" font-size="25" fill="#216b5b">展厅内</text>
+<text x="48" y="311" font-size="30" fill="#12342f">请与展品保持距离，拍照时关闭闪光灯。</text>
+<text x="48" y="375" font-size="25" fill="#216b5b">需要帮助时，请联系服务台。</text>
+<text x="48" y="450" font-size="19" fill="#354e49">原创教学示例 · 场馆信息为虚构</text>
+</g>
+</svg>

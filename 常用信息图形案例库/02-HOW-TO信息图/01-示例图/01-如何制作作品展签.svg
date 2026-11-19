@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="480" viewBox="0 0 820 480" role="img" aria-label="如何制作作品展签">
+<rect width="820" height="480" rx="24" fill="#f3f6f4"/>
+<path d="M48 103H772M48 413H772" stroke="#b6c9c5"/>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif">
+<text x="48" y="76" font-size="37" font-weight="700" fill="#12342f">如何制作作品展签</text>
+<text x="48" y="174" font-size="29" fill="#12342f">01  收集作品名、作者和年份</text>
+<text x="48" y="239" font-size="29" fill="#216b5b">02  按统一顺序填写展签</text>
+<text x="48" y="304" font-size="29" fill="#12342f">03  校对文字并试印</text>
+<text x="48" y="369" font-size="29" fill="#216b5b">04  安装在对应作品旁</text>
+<text x="48" y="450" font-size="19" fill="#354e49">按 01 至 04 顺序执行</text>
+</g>
+</svg>
